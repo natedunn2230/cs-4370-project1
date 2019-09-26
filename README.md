@@ -12,8 +12,8 @@
 
 Two source files can be found: 
 
-1. *dunn_project_1_add.cu* 
-2. *dunn_project_1_mult.cu* 
+1. *dunn_project1_add.cu* 
+2. *dunn_project1_mult.cu* 
 
 To compile the programs in the Fry environment, run the following commands:
 
